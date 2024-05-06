@@ -164,22 +164,3 @@ width: 100%;
 #section{
   margin-top: 100px;
 }
-
-
-.nike-button {
-  display: inline-block;
-  padding: 12px 30px;
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-  text-transform: uppercase;
-  border-radius: 5px;
-  background-color: black;
-  color: #fff;
-  border: none;
-  transition: background-color 0.3s ease;
-}
-
-.nike-button:hover {
-  background-color: gray;
-}
