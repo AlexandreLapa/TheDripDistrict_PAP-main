@@ -107,12 +107,7 @@
             </div>
             
         </div>
-    </section>
-
-    <section>
-
-<button class="nike-button">Add to Cart</button>
-</section>    
+    </section>   
 
 </body>
 </html>
